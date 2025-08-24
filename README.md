@@ -1,26 +1,26 @@
-Hi there 👋, I'm Henson Brix A. Arroyo
+Hi there , I'm Henson Brix A. Arroyo
 
-🚀 About Me
-
-
+About Me
 
 
 
-🎓 BSIT Student at Laguna State Polytechnic University Santa Cruz Campus
+
+
+BSIT Student at Laguna State Polytechnic University Santa Cruz Campus
 
 
 
-📚 Currently learning Node.js, Express, PostgreSQL, React.js, and Flutter
+Currently learning Node.js, Express, PostgreSQL, React.js, and Flutter
 
 
 
-🥅 Goal: To become a proficient Full-Stack Developer specializing in web and mobile applications
+Goal: To become a proficient Full-Stack Developer specializing in web and mobile applications
 
 
 
-🌟 Interested in Software Engineering, Real-Time Web Applications, and Responsive UI Design
+Interested in Software Engineering, Real-Time Web Applications, and Responsive UI Design
 
-🛠️ Skills
+Skills
 
 
 
@@ -36,23 +36,23 @@ Frameworks/Tools: Node.js, Express, React.js, Flutter, PostgreSQL, Git, GitHub
 
 Other: API Development, Database Design, WebSocket Integration
 
-🌱 Current Projects
+Current Projects
 
 
 
 
 
-🔧 Building a Content Management System for a Homeowners Association platform
+Building a Content Management System for a Homeowners Association platform
 
 
 
-📱 Developing mobile apps with Flutter for cross-platform compatibility
+Developing mobile apps with Flutter for cross-platform compatibility
 
 
 
-💻 Creating a portfolio with React.js and Node.js to showcase full-stack projects
+Creating a portfolio with React.js and Node.js to showcase full-stack projects
 
-📫 Connect with Me
+Connect with Me
 
 
 
