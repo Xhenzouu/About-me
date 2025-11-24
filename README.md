@@ -1,6 +1,18 @@
 <h1 align="center">👋 Hi, I'm <strong>Henson Brix A. Arroyo</strong></h1>
 <p align="center">Aspiring Full-Stack Developer | BSIT Student at LSPU</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/arroyohensonbrix/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:arroyobrix@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Xhenzouu">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -33,8 +45,6 @@
 ## 📌 Projects (Job-Relevant)
 - 🏡 **HOA with NLP & CMS** — Web platform for managing homeowners associations. Features: user authentication, CRUD dashboards, and responsive UI  
 - 📱 **Flutter Mobile Apps** — Cross-platform apps for Android/iOS using Firebase integration  
-- 🌐 **Full-Stack Portfolio** — Personal portfolio demonstrating **React.js + Node.js + PostgreSQL** projects  
-- 🔗 [Portfolio Demo](#) — Replace with live demo link when available  
 
 ---
 
@@ -47,11 +57,10 @@
 
 ---
 
-## 🏆 GitHub Trophies & Streaks
+## 🎯 Skills Radar
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xhenzouu&theme=tokyonight" height="120" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xhenzouu&theme=tokyonight" height="120" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,flutter,postgres" height="120" />
 </p>
 
 ---
@@ -66,7 +75,6 @@
 ## 📬 Connect With Me
 📧 **Email:** arroyobrix@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/arroyohensonbrix](https://linkedin.com/in/arroyohensonbrix)  
-💻 **Portfolio:** [Add link here]  
 
 ---
 
