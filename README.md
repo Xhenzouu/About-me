@@ -1,104 +1,67 @@
 <h1 align="center">👋 Hi, I'm <strong>Henson Brix A. Arroyo</strong></h1>
-<p align="center">Motivated Junior Full-Stack Developer | BSIT Student at LSPU</p>
+<p align="center">Junior Full-Stack Developer • BSIT Student @ LSPU • Building real-world apps that actually get used</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arroyohensonbrix/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:arroyobrix@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Xhenzouu">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/arroyohensonbrix/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:arroyobrix@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://hensonbrix-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://lynvillehomes8.me"><img src="https://img.shields.io/badge/Live_Project-lynvillehomes8.me-7B2CBF?style=for-the-badge&logo=react" alt="Live Project"></a>
 </p>
 
 ---
-
 ## 🚀 About Me
-
-* 🎓 BSIT Student — Laguna State Polytechnic University
-* 💻 Motivated Junior Full-Stack Developer with hands-on experience in **PERN stack and Flutter**
-* 🌱 Skilled in enhancing system efficiency, optimizing workflows, and integrating user-focused features
-* 🎯 Actively seeking internships, freelance projects, or entry-level Full-Stack / Mobile Development roles
-* 💡 Passionate about creating **scalable, real-time applications** with clean UI/UX
+- 🎓 BS Information Technology student (Web & Mobile Dev) — Laguna State Polytechnic University  
+- 💻 Live capstone project serving **447+ real homeowners** (Lynville Homes 8)  
+- 🔨 Love turning ideas into clean, scalable, user-focused products  
+- 🎮 When not coding: Dota 2, Apex, Tolkien, high-fantasy series, straight black espresso (no sugar, ever)
 
 ---
+## 🛠️ Tech Stack & Skills
 
-## 🛠️ Tech Stack
+**Frontend & Design**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) • Responsive UI/UX • Wireframing & Prototyping
 
-### **Languages**
+**Backend & APIs**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) • PERN Stack • RESTful APIs • WebSockets
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=000)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart\&logoColor=fff)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql\&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=fff)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp\&logoColor=fff)
+**Mobile & Database**  
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff) • Cross-platform Flutter  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff) • Design, Optimization, Migrations
 
-### **Frameworks & Tools**
+**DevOps & Tools**  
+![Railway](https://img.shields.io/badge/Railway-131313?logo=railway&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) • Postman • Automated Testing
 
-![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000000?logo=express\&logoColor=fff)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=fff)
+**Emerging Tech**  
+Basic NLP & Sentiment Analysis • SMS Integration (Semaphore) • IoT Prototyping (ESP8266 + Arduino IoT Cloud) • C# .NET WinForms
 
 ---
+## 🔥 Featured Projects
 
-## 📌 Projects
+**Lynville Homes 8** → [lynvillehomes8.me](https://lynvillehomes8.me)  
+Live HOA management platform (447+ users) • PERN + Railway • Threaded comments • NLP complaint classification • SMS alerts
 
-**Community Management Platform – Lynville Homes 8**
+**Chairable**  
+Cross-platform e-commerce • Flutter + Flask + PostgreSQL • Multi-role system (customers, sellers, riders, admin)
 
-* Full web platform for HOA management with **authentication, role-based access, real-time alerts**, and admin dashboards
-* Deployed with Railway; integrated secure API routes and automated workflows
-* Technologies: **PERN stack**
+**GamingRigz POS**  
+Offline desktop POS • C# .NET WinForms • Embedded DB • Inventory + automated reporting
 
-**Chairable – Cross-Platform E-Commerce System**
-
-* Multi-role platform (customers, sellers, admins, riders) with **order workflows, commission tracking, and dashboard analytics**
-* Designed APIs and structures for smooth transaction processing and courier ETA updates
-* Technologies: **Flask/Javascript, Flutter/Dart**
-
-**Point-of-Sale System – GamingRigz (Desktop Application)**
-
-* Desktop app with embedded database for stable offline use
-* Structured **stock management with color-coded categories** and cashier workflows (payment, change calculation, restock tracking, low-stock alerts)
-* Automated **sales reports** and **receipt generation**
-* Technologies: **C# (Windows Forms)**
+**IoT Assistive Cane**  
+Obstacle detection for the visually impaired • ESP8266 + Ultrasonic • Arduino IoT Cloud remote monitoring
 
 ---
-
-## 🎯 Skills
-
-* User Interface Development (React.js, Flutter/Dart)
-* Web Application Development (Node.js, Express.js, Flask, PERN Stack)
-* Mobile Application Development (Cross-platform with Flutter)
-* Database Design, Optimization, and Management (PostgreSQL, Embedded DB)
-* RESTful API Integration and Secure Routing
-* Inventory, Role, and Workflow Management Systems
-* Automated Testing and Performance Optimization
-* Code Refactoring and Clean Architecture Practices
-* Agile Development and Collaborative Teamwork
-* Real-Time Programming and Notifications (Websockets)
-* Basic AI/NLP Integration
-
----
-
 ## 🎓 Education
+**BS Information Technology** – Web & Mobile Application Development  
+Laguna State Polytechnic University • 2022 – Present
 
-**Bachelor of Science in Information Technology**
-*Specialization: Web & Mobile Application Development*
-Laguna State Polytechnic University Santa Cruz Main Campus — 2022 – Present
+**Senior High – Science, Technology, Engineering & Mathematics**  
+AMA Computer College Santa Cruz • 2020 – 2022
 
 ---
-
 ## 📜 Certifications
+- Cybersecurity for ICT Professionals — DICT Region V (2025)  
+- Design Thinking: Ideation Wednesdays — DICT Caraga (2025)  
+- Linux Essentials — Cisco Networking Academy (70 hrs, 2025)
 
-* Cybersecurity for ICT Professionals — DICT Region V (2025)
-* Design Thinking: Ideation Wednesdays — DICT Caraga (2025)
-* Linux Essentials — Cisco Networking Academy / NDG (70 hrs, 2025)
-
----
-
-<p align="center"><em>“Build, Iterate, Innovate. Open to exciting opportunities!”</em></p>
+<p align="center"><strong>Always open to internships, freelance gigs, or full-time junior roles!</strong></p>
+<p align="center">📩 arroyobrix@gmail.com • Let’s build something awesome 🤝</p>
